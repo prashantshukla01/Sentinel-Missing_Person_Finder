@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🧠 Missing Person Detection System
 
@@ -102,7 +102,7 @@ The **Missing Person Detection System** is a full-stack web application designed
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/prashantshukla01/missing_person_finding.git
+git clone https://github.com/prashantshukla01/Sentinel-Missing_Person_Finder.git
 cd missing_person_finding
 ```
 
@@ -433,7 +433,7 @@ This project is licensed under the **MIT License** — see the [LICENSE.md](LICE
 
 **Prashant Shukla** — [@prashantshukla01](https://github.com/prashantshukla01)
 
-Project Link: [https://github.com/prashantshukla01/missing_person_finding](https://github.com/prashantshukla01/missing_person_finding)
+Project Link: [https://github.com/prashantshukla01/Sentinel-Missing_Person_Finder](https://github.com/prashantshukla01/Sentinel-Missing_Person_Finder)
 
 ---
 
@@ -444,4 +444,3 @@ Project Link: [https://github.com/prashantshukla01/missing_person_finding](https
 Made with ❤️ for a safer world.
 
 </div>
-]]>
