@@ -131200,3 +131200,1641 @@ with app.app_context(). See the documentation for more information.
 2025-12-17 15:51:32,518 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:51:32] "GET /cctv/streams HTTP/1.1" 200 -
 2025-12-17 15:51:37,516 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:51:37] "GET /api/detections/recent HTTP/1.1" 200 -
 2025-12-17 15:51:37,527 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:51:37] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:51:42,511 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:51:42] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:51:42,516 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:51:42] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:51:52,495 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:51:52] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:51:52,511 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:51:52] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:51:52,514 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:51:52] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:51:52,515 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:51:52] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:51:52,517 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:51:52] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:52:02,511 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:02] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:52:02,512 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:02] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:52:07,518 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:07] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:52:07,527 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:07] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:52:10,509 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:10] "GET / HTTP/1.1" 200 -
+2025-12-17 15:52:10,526 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 15:52:10,528 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:10] "[36mGET /static/images/landing_hero.png HTTP/1.1[0m" 304 -
+2025-12-17 15:52:10,573 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:10] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 15:52:13,728 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:13] "GET /dashboard HTTP/1.1" 200 -
+2025-12-17 15:52:13,745 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 15:52:13,770 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:13] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:52:13,774 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:13] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:52:13,778 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:13] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 15:52:13,781 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:13] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:52:13,783 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:13] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:52:17,405 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:17] "GET /person/upload HTTP/1.1" 200 -
+2025-12-17 15:52:17,417 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 15:52:17,438 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:17] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:52:17,449 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:17] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 15:52:18,540 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:18] "GET /person/list HTTP/1.1" 200 -
+2025-12-17 15:52:18,563 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 15:52:18,563 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:18] "[36mGET /person/image/ed8da53d-268d-4869-8d94-cfa9872408b3 HTTP/1.1[0m" 304 -
+2025-12-17 15:52:18,563 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:18] "[36mGET /person/image/d1ebc0ae-bd5e-46bb-b63e-6a374bca3add HTTP/1.1[0m" 304 -
+2025-12-17 15:52:18,580 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:18] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:52:18,588 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:18] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 15:52:19,291 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:19] "GET /cctv/management HTTP/1.1" 200 -
+2025-12-17 15:52:19,305 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 15:52:19,322 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:19] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:52:19,340 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:19] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:52:19,344 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:19] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:52:19,345 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:19] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 15:52:19,346 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:19] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:52:19,352 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:19] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 15:52:19,357 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:19] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:52:19,361 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:19] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 15:52:19,366 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:19] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/5f477f47-4fbf-44da-a710-5ac3023fe3c0_ankit.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 15:52:19,366 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:19] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/da52d94a-9f6b-4395-b973-ec6873585599_your_profile_pic.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 15:52:20,124 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:20] "GET /cctv/history HTTP/1.1" 200 -
+2025-12-17 15:52:20,145 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 15:52:20,162 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:20] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:52:20,203 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:20] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:52:20,215 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:20] "GET /api/detections/history HTTP/1.1" 200 -
+2025-12-17 15:52:20,220 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:20] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 15:52:21,041 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:21] "GET /settings/ HTTP/1.1" 200 -
+2025-12-17 15:52:21,055 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 15:52:21,077 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:21] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:52:21,084 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:21] "GET /settings/api/get HTTP/1.1" 200 -
+2025-12-17 15:52:21,086 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:21] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 15:52:25,858 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:25] "GET /cctv/dashboard HTTP/1.1" 200 -
+2025-12-17 15:52:25,871 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 15:52:25,889 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:25] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:52:25,894 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:25] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:52:25,899 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:25] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 15:52:25,903 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:25] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:52:25,906 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:25] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:52:55,895 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:55] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:52:55,900 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:55] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:52:55,907 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:55] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:52:55,913 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:52:55] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:53:12,058 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:12] "GET /cctv/management HTTP/1.1" 200 -
+2025-12-17 15:53:12,074 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 15:53:12,093 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:12] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:53:12,094 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:12] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:53:12,098 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:12] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:53:12,099 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:12] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:53:12,099 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:12] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 15:53:12,106 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:12] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:53:12,113 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:12] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 15:53:12,113 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:12] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 15:53:12,117 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:12] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/da52d94a-9f6b-4395-b973-ec6873585599_your_profile_pic.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 15:53:12,119 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:12] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/5f477f47-4fbf-44da-a710-5ac3023fe3c0_ankit.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 15:53:22,094 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:22] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:53:22,096 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:22] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:53:27,103 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:27] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:53:27,111 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:27] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:53:32,094 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:32] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:53:32,099 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:32] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:53:42,030 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:42] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:53:42,035 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:42] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:53:42,041 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:42] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:53:42,044 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:42] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:53:42,051 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:42] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:53:52,037 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:52] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:53:52,040 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:52] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:53:57,029 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:57] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:53:57,037 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:53:57] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:54:02,023 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:02] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:54:02,027 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:02] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:54:13,807 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:13] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:54:13,808 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:13] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:54:13,809 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:13] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:54:13,810 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:13] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:54:13,813 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:13] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:54:22,019 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:22] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:54:22,022 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:22] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:54:27,024 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:27] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:54:27,036 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:27] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:54:32,027 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:32] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:54:32,036 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:32] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:54:42,027 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:42] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:54:42,032 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:42] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:54:42,034 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:42] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:54:42,037 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:42] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:54:42,043 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:42] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:54:52,022 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:52] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:54:52,025 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:52] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:54:57,026 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:57] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:54:57,038 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:54:57] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:55:02,020 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:02] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:55:02,025 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:02] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:55:09,162 - werkzeug - INFO -  * Detected change in '/Users/prashantshukla/Desktop/face_detection/app/models/cctv_manager.py', reloading
+2025-12-17 15:55:09,169 - werkzeug - INFO -  * Detected change in '/Users/prashantshukla/Desktop/face_detection/app/models/cctv_manager.py', reloading
+2025-12-17 15:55:10,728 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-12-17 15:55:13,815 - app - INFO - Initializing Face Matcher...
+2025-12-17 15:55:14,427 - app.models.face_matcher - INFO - InsightFace model loaded successfully (Standardized on Buffalo_L)
+2025-12-17 15:55:14,428 - app - INFO - Initializing CCTV Manager...
+2025-12-17 15:55:14,437 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 15:55:14,437 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 15:55:14,437 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 15:55:14,437 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 15:55:14,438 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 15:55:14,438 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 15:55:14,438 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 15:55:14,438 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 15:55:14,441 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 15:55:14,441 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 15:55:14,441 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 15:55:14,442 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 15:55:14,444 - app.routes.person_routes - INFO - Person routes initialized with config and dependencies
+2025-12-17 15:55:14,448 - app - INFO - Missing Person Detection System initialized successfully
+2025-12-17 15:55:16,507 - __main__ - INFO - Webcam is available, adding webcam stream
+2025-12-17 15:55:16,507 - __main__ - ERROR - Error testing webcam: 'CCTVManager' object has no attribute 'add_webcam_stream'
+2025-12-17 15:55:16,507 - __main__ - INFO - Using demo stream instead of webcam
+2025-12-17 15:55:16,510 - app.models.cctv_manager - ERROR - Error adding stream: (sqlite3.IntegrityError) UNIQUE constraint failed: streams.name
+[SQL: INSERT INTO streams (name, source_url, location, lat, lng, active, added_date) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Demo Stream', 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', 'Test Location', None, None, 1, '2025-12-17 10:25:16.509084')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-17 15:55:16,520 - werkzeug - WARNING -  * Debugger is active!
+2025-12-17 15:55:16,685 - werkzeug - INFO -  * Debugger PIN: 132-631-766
+2025-12-17 15:55:16,833 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:16] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:55:16,834 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:16] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:55:16,835 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:16] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:55:16,870 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:16] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:55:16,872 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:16] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:55:22,035 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:22] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:55:22,038 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:22] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:55:22,232 - werkzeug - INFO -  * Detected change in '/Users/prashantshukla/Desktop/face_detection/app/models/cctv_manager.py', reloading
+2025-12-17 15:55:23,456 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-12-17 15:55:25,829 - app - INFO - Initializing Face Matcher...
+2025-12-17 15:55:26,306 - app.models.face_matcher - INFO - InsightFace model loaded successfully (Standardized on Buffalo_L)
+2025-12-17 15:55:26,308 - app - INFO - Initializing CCTV Manager...
+2025-12-17 15:55:26,316 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 15:55:26,316 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 15:55:26,316 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 15:55:26,316 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 15:55:26,316 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 15:55:26,316 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 15:55:26,316 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 15:55:26,316 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 15:55:26,318 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 15:55:26,318 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 15:55:26,318 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 15:55:26,319 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 15:55:26,321 - app.routes.person_routes - INFO - Person routes initialized with config and dependencies
+2025-12-17 15:55:26,326 - app - INFO - Missing Person Detection System initialized successfully
+2025-12-17 15:55:28,010 - __main__ - INFO - Webcam is available, adding webcam stream
+2025-12-17 15:55:28,010 - __main__ - ERROR - Error testing webcam: 'CCTVManager' object has no attribute 'add_webcam_stream'
+2025-12-17 15:55:28,010 - __main__ - INFO - Using demo stream instead of webcam
+2025-12-17 15:55:28,013 - app.models.cctv_manager - ERROR - Error adding stream: (sqlite3.IntegrityError) UNIQUE constraint failed: streams.name
+[SQL: INSERT INTO streams (name, source_url, location, lat, lng, active, added_date) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Demo Stream', 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', 'Test Location', None, None, 1, '2025-12-17 10:25:28.012154')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-17 15:55:28,021 - werkzeug - WARNING -  * Debugger is active!
+2025-12-17 15:55:28,069 - werkzeug - INFO -  * Debugger PIN: 132-631-766
+2025-12-17 15:55:28,231 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:28] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:55:28,235 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:28] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:55:32,017 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:32] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:55:32,019 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:32] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:55:33,731 - app - INFO - Initializing Face Matcher...
+2025-12-17 15:55:34,361 - app.models.face_matcher - INFO - InsightFace model loaded successfully (Standardized on Buffalo_L)
+2025-12-17 15:55:34,362 - app - INFO - Initializing CCTV Manager...
+2025-12-17 15:55:34,372 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 15:55:34,372 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 15:55:34,372 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 15:55:34,372 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 15:55:34,373 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 15:55:34,373 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 15:55:34,373 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 15:55:34,373 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 15:55:34,374 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 15:55:34,374 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 15:55:34,374 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 15:55:34,375 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 15:55:34,379 - app.routes.person_routes - INFO - Person routes initialized with config and dependencies
+2025-12-17 15:55:34,384 - app - INFO - Missing Person Detection System initialized successfully
+2025-12-17 15:55:36,378 - __main__ - INFO - Webcam is available, adding webcam stream
+2025-12-17 15:55:36,379 - __main__ - ERROR - Error testing webcam: 'CCTVManager' object has no attribute 'add_webcam_stream'
+2025-12-17 15:55:36,379 - __main__ - INFO - Using demo stream instead of webcam
+2025-12-17 15:55:36,384 - app.models.cctv_manager - ERROR - Error adding stream: (sqlite3.IntegrityError) UNIQUE constraint failed: streams.name
+[SQL: INSERT INTO streams (name, source_url, location, lat, lng, active, added_date) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Demo Stream', 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', 'Test Location', None, None, 1, '2025-12-17 10:25:36.383711')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-17 15:55:42,074 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:42] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:55:42,077 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:42] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:55:42,077 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:42] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:55:42,090 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:42] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:55:42,090 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:42] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:55:52,017 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:52] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:55:52,021 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:52] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:55:53,053 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> True
+2025-12-17 15:55:53,063 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to True
+2025-12-17 15:55:53,064 - app.models.cctv_manager - INFO - Opening default camera for stream URL: demo
+2025-12-17 15:55:53,064 - app.models.cctv_manager - INFO - Started monitoring stream: Demo Stream
+2025-12-17 15:55:53,065 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:53] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 15:55:53,068 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:53] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:55:53,069 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:53] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:55:55,075 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:55] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:55:55,341 - app.models.cctv_manager - INFO - Successfully connected to Demo Stream
+2025-12-17 15:55:56,060 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 15:55:56,060 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 15:55:56,184 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:56] "GET /api/cctv/stream/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 15:55:56,643 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 15:55:56,643 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 15:55:57,026 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:57] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:55:57,035 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:57] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:55:57,074 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:57] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:55:57,391 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 15:55:57,391 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 15:55:57,966 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 15:55:57,966 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 15:55:58,461 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 15:55:58,461 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 15:55:59,041 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 15:55:59,041 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 15:55:59,072 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:55:59] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:55:59,532 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 15:55:59,532 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 15:56:00,108 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 15:56:00,108 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 15:56:00,654 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 15:56:00,654 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 15:56:01,073 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:01,235 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 15:56:01,235 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 15:56:01,808 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.60)
+2025-12-17 15:56:01,809 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.60)
+2025-12-17 15:56:02,017 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:02] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:02,019 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:02] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:02,318 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.62)
+2025-12-17 15:56:02,319 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.62)
+2025-12-17 15:56:02,775 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.67)
+2025-12-17 15:56:02,775 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.67)
+2025-12-17 15:56:03,074 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:03] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:03,389 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.62)
+2025-12-17 15:56:03,389 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.62)
+2025-12-17 15:56:03,966 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 15:56:03,966 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 15:56:04,522 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 15:56:04,522 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 15:56:04,987 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 15:56:04,987 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 15:56:05,076 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:05] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:05,477 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 15:56:05,477 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 15:56:05,926 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> False
+2025-12-17 15:56:05,928 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to False
+2025-12-17 15:56:05,928 - app.models.cctv_manager - WARNING - 🛑 STOPPING STREAM REQUEST: Demo Stream
+2025-12-17 15:56:05,928 - app.models.cctv_manager - WARNING - 🚫 BLOCKED stream Demo Stream (Kill Switch Active)
+2025-12-17 15:56:05,928 - app.models.cctv_manager - WARNING - Set active=False for Demo Stream
+2025-12-17 15:56:05,928 - app.models.cctv_manager - WARNING - FORCE RELEASING reader for Demo Stream
+2025-12-17 15:56:06,130 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 15:56:06,130 - app.models.cctv_manager - WARNING - Waiting for thread Demo Stream to join...
+2025-12-17 15:56:06,130 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 15:56:06,143 - app.models.cctv_manager - WARNING - 🔄 EXITING _monitor_stream loop for Demo Stream
+2025-12-17 15:56:06,190 - app.models.cctv_manager - INFO - Released stream resources for Demo Stream
+2025-12-17 15:56:06,190 - app.models.cctv_manager - WARNING - ✅ Thread Demo Stream joined successfully
+2025-12-17 15:56:06,191 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 15:56:06,191 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 15:56:06,191 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 15:56:06,191 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 15:56:06,192 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:06] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 15:56:06,198 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:06] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:12,020 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:12] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:12,024 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:12] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:56:12,027 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:12] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:56:12,028 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:12] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:12,034 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:12] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:56:13,619 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:13] "GET /cctv/management HTTP/1.1" 200 -
+2025-12-17 15:56:13,692 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 15:56:13,720 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:13] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:56:13,728 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:13] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:13,732 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:13] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:13,733 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:13] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 15:56:13,733 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:13] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:56:13,735 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:13] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 15:56:13,735 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:13] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:56:13,752 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:13] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/5f477f47-4fbf-44da-a710-5ac3023fe3c0_ankit.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 15:56:13,753 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:13] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 15:56:13,756 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:13] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/da52d94a-9f6b-4395-b973-ec6873585599_your_profile_pic.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 15:56:15,249 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> True
+2025-12-17 15:56:15,254 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to True
+2025-12-17 15:56:15,254 - app.models.cctv_manager - WARNING - ✅ UNBLOCKED stream Demo Stream (User explicitly enabled)
+2025-12-17 15:56:15,255 - app.models.cctv_manager - INFO - Opening default camera for stream URL: demo
+2025-12-17 15:56:15,256 - app.models.cctv_manager - INFO - Started monitoring stream: Demo Stream
+2025-12-17 15:56:15,257 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:15] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 15:56:15,273 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:15] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:15,274 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:15] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:17,265 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:17] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:17,540 - app.models.cctv_manager - INFO - Successfully connected to Demo Stream
+2025-12-17 15:56:18,086 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.63)
+2025-12-17 15:56:18,086 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.63)
+2025-12-17 15:56:18,235 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:18] "GET /api/cctv/stream/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 15:56:18,565 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.67)
+2025-12-17 15:56:18,565 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.67)
+2025-12-17 15:56:19,056 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 15:56:19,056 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 15:56:19,266 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:19] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:19,602 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 15:56:19,602 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 15:56:20,178 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 15:56:20,178 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 15:56:20,759 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.67)
+2025-12-17 15:56:20,760 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.67)
+2025-12-17 15:56:21,269 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:21] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:21,407 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.69)
+2025-12-17 15:56:21,408 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.69)
+2025-12-17 15:56:21,982 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 15:56:21,982 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 15:56:22,528 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.67)
+2025-12-17 15:56:22,528 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.67)
+2025-12-17 15:56:23,109 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 15:56:23,109 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 15:56:23,264 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:23] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:23,670 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.67)
+2025-12-17 15:56:23,671 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.67)
+2025-12-17 15:56:23,731 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:23] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:23,733 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:23] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:24,286 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.67)
+2025-12-17 15:56:24,287 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.67)
+2025-12-17 15:56:24,754 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.67)
+2025-12-17 15:56:24,754 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.67)
+2025-12-17 15:56:25,243 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.67)
+2025-12-17 15:56:25,244 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.67)
+2025-12-17 15:56:25,265 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:25] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:25,825 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 15:56:25,825 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 15:56:26,358 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 15:56:26,359 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 15:56:26,823 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 15:56:26,823 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 15:56:27,368 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:27] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:27,850 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 15:56:27,851 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 15:56:28,336 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.63)
+2025-12-17 15:56:28,336 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.63)
+2025-12-17 15:56:28,742 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:28] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:56:28,753 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:28] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:56:28,886 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 15:56:28,886 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 15:56:29,266 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:29] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:29,433 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 15:56:29,433 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 15:56:29,997 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 15:56:29,997 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 15:56:30,667 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 15:56:30,667 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 15:56:31,240 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 15:56:31,241 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 15:56:31,266 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:31] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:31,690 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.67)
+2025-12-17 15:56:31,690 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.67)
+2025-12-17 15:56:32,139 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 15:56:32,139 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 15:56:32,701 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 15:56:32,701 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 15:56:33,266 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:33] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:33,286 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 15:56:33,286 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 15:56:33,731 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:33] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:33,735 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:33] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:33,881 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 15:56:33,882 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 15:56:34,466 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 15:56:34,466 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 15:56:35,034 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 15:56:35,034 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 15:56:35,266 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:35] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:35,599 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 15:56:35,600 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 15:56:36,157 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 15:56:36,157 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 15:56:36,642 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 15:56:36,642 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 15:56:37,266 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:37] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:37,292 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.68)
+2025-12-17 15:56:37,293 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.68)
+2025-12-17 15:56:37,736 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.67)
+2025-12-17 15:56:37,736 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.67)
+2025-12-17 15:56:38,399 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 15:56:38,400 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 15:56:38,982 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 15:56:38,982 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 15:56:39,091 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> False
+2025-12-17 15:56:39,093 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to False
+2025-12-17 15:56:39,093 - app.models.cctv_manager - WARNING - 🛑 STOPPING STREAM REQUEST: Demo Stream
+2025-12-17 15:56:39,093 - app.models.cctv_manager - WARNING - 🚫 BLOCKED stream Demo Stream (Kill Switch Active)
+2025-12-17 15:56:39,093 - app.models.cctv_manager - WARNING - Set active=False for Demo Stream
+2025-12-17 15:56:39,093 - app.models.cctv_manager - WARNING - FORCE RELEASING reader for Demo Stream
+2025-12-17 15:56:39,112 - app.models.cctv_manager - WARNING - 🔄 EXITING _monitor_stream loop for Demo Stream
+2025-12-17 15:56:39,222 - app.models.cctv_manager - INFO - Released stream resources for Demo Stream
+2025-12-17 15:56:39,265 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:39] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:39,334 - app.models.cctv_manager - WARNING - Waiting for thread Demo Stream to join...
+2025-12-17 15:56:39,335 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 15:56:39,335 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 15:56:39,335 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 15:56:39,335 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 15:56:39,335 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:39] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 15:56:39,338 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:39] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:43,723 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:43] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:56:43,735 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:43] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:43,742 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:43] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:43,744 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:43] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:56:43,760 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:43] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:56:53,734 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:53] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:53,739 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:53] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:56:58,735 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:58] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:56:58,750 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:56:58] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:57:03,733 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:03] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:57:03,738 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:03] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:57:13,729 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:13] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:57:13,733 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:13] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:57:13,741 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:13] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:57:13,743 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:13] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:57:13,749 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:13] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:57:23,733 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:23] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:57:23,738 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:23] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:57:28,735 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:28] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:57:28,744 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:28] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:57:33,733 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:33] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:57:33,738 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:33] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:57:43,720 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:43] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:57:43,730 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:43] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:57:43,733 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:43] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:57:43,734 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:43] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:57:43,737 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:43] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:57:53,732 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:53] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:57:53,738 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:53] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:57:58,729 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:58] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:57:58,734 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:57:58] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:58:03,731 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:03] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:58:03,737 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:03] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:58:13,724 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:13] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:58:13,733 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:13] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:58:13,736 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:13] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:58:13,738 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:13] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:58:13,740 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:13] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:58:23,732 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:23] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:58:23,737 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:23] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:58:28,736 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:28] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:58:28,747 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:28] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:58:33,733 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:33] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:58:33,738 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:33] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:58:43,722 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:43] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:58:43,731 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:43] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:58:43,734 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:43] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:58:43,736 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:43] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:58:43,741 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:43] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:58:53,732 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:53] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:58:53,737 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:53] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:58:58,734 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:58] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:58:58,746 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:58:58] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:59:03,731 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:03] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:59:03,735 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:03] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:59:13,722 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:13] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:59:13,733 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:13] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:59:13,735 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:13] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:59:13,737 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:13] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:59:13,743 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:13] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:59:23,730 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:23] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:59:23,734 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:23] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:59:28,733 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:28] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:59:28,741 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:28] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:59:33,730 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:33] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:59:33,734 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:33] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:59:43,719 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:43] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 15:59:43,731 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:43] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:59:43,734 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:43] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:59:43,736 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:43] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:59:43,739 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:43] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:59:53,728 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:53] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:59:53,730 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:53] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 15:59:58,734 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:58] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 15:59:58,747 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 15:59:58] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:00:03,730 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:03] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:00:03,736 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:03] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:00:13,719 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:13] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:00:13,730 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:13] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:00:13,734 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:13] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:00:13,735 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:13] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:00:13,742 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:13] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:00:23,730 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:23] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:00:23,744 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:23] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:00:28,732 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:28] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:00:28,741 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:28] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:00:33,730 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:33] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:00:33,735 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:33] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:00:43,253 - werkzeug - INFO -  * Detected change in '/Users/prashantshukla/Desktop/face_detection/app/models/cctv_manager.py', reloading
+2025-12-17 16:00:43,714 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:43] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:00:43,725 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:43] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:00:43,726 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:43] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:00:43,729 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:43] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:00:43,730 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:43] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:00:44,406 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-12-17 16:00:46,937 - app - INFO - Initializing Face Matcher...
+2025-12-17 16:00:47,476 - app.models.face_matcher - INFO - InsightFace model loaded successfully (Standardized on Buffalo_L)
+2025-12-17 16:00:47,477 - app - INFO - Initializing CCTV Manager...
+2025-12-17 16:00:47,484 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:00:47,484 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:00:47,484 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:00:47,484 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:00:47,485 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:00:47,485 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:00:47,485 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:00:47,485 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:00:47,486 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:00:47,486 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:00:47,486 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:00:47,487 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:00:47,489 - app.routes.person_routes - INFO - Person routes initialized with config and dependencies
+2025-12-17 16:00:47,493 - app - INFO - Missing Person Detection System initialized successfully
+2025-12-17 16:00:49,033 - __main__ - INFO - Webcam is available, adding webcam stream
+2025-12-17 16:00:49,033 - __main__ - ERROR - Error testing webcam: 'CCTVManager' object has no attribute 'add_webcam_stream'
+2025-12-17 16:00:49,034 - __main__ - INFO - Using demo stream instead of webcam
+2025-12-17 16:00:49,035 - app.models.cctv_manager - ERROR - Error adding stream: (sqlite3.IntegrityError) UNIQUE constraint failed: streams.name
+[SQL: INSERT INTO streams (name, source_url, location, lat, lng, active, added_date) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Demo Stream', 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', 'Test Location', None, None, 1, '2025-12-17 10:30:49.035321')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-17 16:00:49,047 - werkzeug - WARNING -  * Debugger is active!
+2025-12-17 16:00:49,072 - werkzeug - INFO -  * Debugger PIN: 132-631-766
+2025-12-17 16:00:50,837 - werkzeug - INFO -  * Detected change in '/Users/prashantshukla/Desktop/face_detection/app/models/cctv_manager.py', reloading
+2025-12-17 16:00:51,605 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-12-17 16:00:53,477 - app - INFO - Initializing Face Matcher...
+2025-12-17 16:00:53,785 - app.models.face_matcher - INFO - InsightFace model loaded successfully (Standardized on Buffalo_L)
+2025-12-17 16:00:53,785 - app - INFO - Initializing CCTV Manager...
+2025-12-17 16:00:53,793 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:00:53,793 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:00:53,793 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:00:53,793 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:00:53,793 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:00:53,793 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:00:53,793 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:00:53,793 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:00:53,795 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:00:53,795 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:00:53,795 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:00:53,796 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:00:53,798 - app.routes.person_routes - INFO - Person routes initialized with config and dependencies
+2025-12-17 16:00:53,802 - app - INFO - Missing Person Detection System initialized successfully
+2025-12-17 16:00:55,224 - __main__ - INFO - Webcam is available, adding webcam stream
+2025-12-17 16:00:55,225 - __main__ - ERROR - Error testing webcam: 'CCTVManager' object has no attribute 'add_webcam_stream'
+2025-12-17 16:00:55,225 - __main__ - INFO - Using demo stream instead of webcam
+2025-12-17 16:00:55,234 - app.models.cctv_manager - ERROR - Error adding stream: (sqlite3.IntegrityError) UNIQUE constraint failed: streams.name
+[SQL: INSERT INTO streams (name, source_url, location, lat, lng, active, added_date) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Demo Stream', 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', 'Test Location', None, None, 1, '2025-12-17 10:30:55.232694')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-17 16:00:55,244 - werkzeug - WARNING -  * Debugger is active!
+2025-12-17 16:00:55,264 - werkzeug - INFO -  * Debugger PIN: 132-631-766
+2025-12-17 16:00:55,289 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:55] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:00:55,296 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:55] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:00:57,365 - app - INFO - Initializing Face Matcher...
+2025-12-17 16:00:57,816 - app.models.face_matcher - INFO - InsightFace model loaded successfully (Standardized on Buffalo_L)
+2025-12-17 16:00:57,816 - app - INFO - Initializing CCTV Manager...
+2025-12-17 16:00:57,822 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:00:57,822 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:00:57,822 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:00:57,822 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:00:57,823 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:00:57,823 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:00:57,823 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:00:57,823 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:00:57,824 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:00:57,824 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:00:57,824 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:00:57,825 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:00:57,827 - app.routes.person_routes - INFO - Person routes initialized with config and dependencies
+2025-12-17 16:00:57,831 - app - INFO - Missing Person Detection System initialized successfully
+2025-12-17 16:00:58,701 - __main__ - INFO - Webcam is available, adding webcam stream
+2025-12-17 16:00:58,701 - __main__ - ERROR - Error testing webcam: 'CCTVManager' object has no attribute 'add_webcam_stream'
+2025-12-17 16:00:58,702 - __main__ - INFO - Using demo stream instead of webcam
+2025-12-17 16:00:58,705 - app.models.cctv_manager - ERROR - Error adding stream: (sqlite3.IntegrityError) UNIQUE constraint failed: streams.name
+[SQL: INSERT INTO streams (name, source_url, location, lat, lng, active, added_date) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Demo Stream', 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', 'Test Location', None, None, 1, '2025-12-17 10:30:58.704328')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-17 16:00:58,812 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:58] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:00:58,819 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:00:58] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:01:03,735 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:03] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:03,749 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:03] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:05,578 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:05] "GET /cctv/management HTTP/1.1" 200 -
+2025-12-17 16:01:05,656 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 16:01:05,679 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:05] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:01:05,704 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:05] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:05,710 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:05] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:01:05,712 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:05] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:05,714 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:05] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 16:01:05,716 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:05] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:01:05,717 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:05] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 16:01:05,745 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:05] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/5f477f47-4fbf-44da-a710-5ac3023fe3c0_ankit.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 16:01:05,748 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:05] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/da52d94a-9f6b-4395-b973-ec6873585599_your_profile_pic.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 16:01:05,748 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:05] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 16:01:07,228 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> True
+2025-12-17 16:01:07,237 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to True
+2025-12-17 16:01:07,237 - app.models.cctv_manager - INFO - Opening default camera for stream URL: demo
+2025-12-17 16:01:07,237 - app.models.cctv_manager - INFO - Started monitoring stream: Demo Stream
+2025-12-17 16:01:07,238 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:07] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:01:07,245 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:07] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:07,250 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:07] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:09,245 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:09] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:09,512 - app.models.cctv_manager - INFO - Successfully connected to Demo Stream
+2025-12-17 16:01:10,236 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 16:01:10,236 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 16:01:10,357 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:10] "GET /api/cctv/stream/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:01:10,949 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.63)
+2025-12-17 16:01:10,949 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.63)
+2025-12-17 16:01:11,246 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:11,534 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.63)
+2025-12-17 16:01:11,534 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.63)
+2025-12-17 16:01:12,116 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 16:01:12,116 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 16:01:12,668 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 16:01:12,668 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 16:01:12,704 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> False
+2025-12-17 16:01:12,708 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to False
+2025-12-17 16:01:12,709 - app.models.cctv_manager - WARNING - 🛑 STOPPING STREAM REQUEST: Demo Stream
+2025-12-17 16:01:12,709 - app.models.cctv_manager - WARNING - 🚫 BLOCKED stream Demo Stream (Kill Switch Active)
+2025-12-17 16:01:12,709 - app.models.cctv_manager - WARNING - Set active=False for Demo Stream
+2025-12-17 16:01:12,709 - app.models.cctv_manager - WARNING - FORCE RELEASING reader for Demo Stream
+2025-12-17 16:01:12,857 - app.models.cctv_manager - WARNING - 🔄 EXITING _monitor_stream loop for Demo Stream
+2025-12-17 16:01:12,857 - app.models.cctv_manager - WARNING - Waiting for thread Demo Stream to join...
+2025-12-17 16:01:12,909 - app.models.cctv_manager - INFO - Released stream resources for Demo Stream
+2025-12-17 16:01:12,909 - app.models.cctv_manager - WARNING - ✅ Thread Demo Stream joined successfully
+2025-12-17 16:01:12,910 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:01:12,910 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:01:12,910 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:01:12,910 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:01:12,910 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:12] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:01:12,914 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:12] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:13,571 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Hostel -> True
+2025-12-17 16:01:13,573 - app.models.cctv_manager - INFO - Updated DB status for Hostel to True
+2025-12-17 16:01:13,574 - app.models.cctv_manager - INFO - Started monitoring stream: Hostel
+2025-12-17 16:01:13,574 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:13] "POST /cctv/toggle/Hostel HTTP/1.1" 200 -
+2025-12-17 16:01:13,581 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:13] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:13,583 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:13] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:14,588 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Hostel -> False
+2025-12-17 16:01:14,591 - app.models.cctv_manager - INFO - Updated DB status for Hostel to False
+2025-12-17 16:01:14,591 - app.models.cctv_manager - WARNING - 🛑 STOPPING STREAM REQUEST: Hostel
+2025-12-17 16:01:14,591 - app.models.cctv_manager - WARNING - 🚫 BLOCKED stream Hostel (Kill Switch Active)
+2025-12-17 16:01:14,591 - app.models.cctv_manager - WARNING - Set active=False for Hostel
+2025-12-17 16:01:14,591 - app.models.cctv_manager - WARNING - Waiting for thread Hostel to join...
+2025-12-17 16:01:15,583 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:15] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:15,658 - app.models.cctv_manager - WARNING - Stream Hostel failed to open. Attempting auto-port scan...
+2025-12-17 16:01:15,659 - app.models.cctv_manager - INFO - Scanning ports [554, 8080, 8554, 80, 5000] for 192.168.28.214...
+2025-12-17 16:01:15,707 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:15] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:15,714 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:15] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:17,372 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> True
+2025-12-17 16:01:17,380 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to True
+2025-12-17 16:01:17,380 - app.models.cctv_manager - WARNING - ✅ UNBLOCKED stream Demo Stream (User explicitly enabled)
+2025-12-17 16:01:17,381 - app.models.cctv_manager - INFO - Opening default camera for stream URL: demo
+2025-12-17 16:01:17,381 - app.models.cctv_manager - INFO - Started monitoring stream: Demo Stream
+2025-12-17 16:01:17,381 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:17] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:01:17,390 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:17] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:17,398 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:17] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:17,596 - app.models.cctv_manager - ERROR - ❌ Thread Hostel DID NOT DIE after 3s join
+2025-12-17 16:01:17,598 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:01:17,598 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:01:17,598 - app.models.cctv_manager - INFO - 🔒 Security: Forcing stream 'Demo Stream' OFF on startup.
+2025-12-17 16:01:17,606 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:01:17,611 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:01:17,611 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:17] "POST /cctv/toggle/Hostel HTTP/1.1" 200 -
+2025-12-17 16:01:17,615 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:17] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:18,167 - app.models.cctv_manager - WARNING - Failed to open stream Hostel. Retrying in 5s...
+2025-12-17 16:01:18,704 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> True
+2025-12-17 16:01:18,706 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to True
+2025-12-17 16:01:18,706 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:18] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:01:18,712 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:18] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:18,714 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:18] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:19,621 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> False
+2025-12-17 16:01:19,623 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to False
+2025-12-17 16:01:19,623 - app.models.cctv_manager - WARNING - 🛑 STOPPING STREAM REQUEST: Demo Stream
+2025-12-17 16:01:19,623 - app.models.cctv_manager - WARNING - 🚫 BLOCKED stream Demo Stream (Kill Switch Active)
+2025-12-17 16:01:19,623 - app.models.cctv_manager - WARNING - Set active=False for Demo Stream
+2025-12-17 16:01:19,623 - app.models.cctv_manager - WARNING - FORCE RELEASING reader for Demo Stream
+2025-12-17 16:01:19,671 - app.models.cctv_manager - INFO - Successfully connected to Demo Stream
+2025-12-17 16:01:19,684 - app.models.cctv_manager - WARNING - 🔄 EXITING _monitor_stream loop for Demo Stream
+2025-12-17 16:01:19,802 - app.models.cctv_manager - WARNING - Waiting for thread Demo Stream to join...
+2025-12-17 16:01:19,802 - app.models.cctv_manager - INFO - Released stream resources for Demo Stream
+2025-12-17 16:01:19,802 - app.models.cctv_manager - WARNING - ✅ Thread Demo Stream joined successfully
+2025-12-17 16:01:19,803 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:01:19,803 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:01:19,803 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:01:19,803 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:01:19,803 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:19] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:01:19,806 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:19] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:20,717 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:20] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:01:20,730 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:20] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:01:23,170 - app.models.cctv_manager - WARNING - 🔄 EXITING _monitor_stream loop for Hostel
+2025-12-17 16:01:23,769 - app.models.cctv_manager - INFO - Released stream resources for Hostel
+2025-12-17 16:01:25,709 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:25] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:25,712 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:25] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:33,828 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> True
+2025-12-17 16:01:33,840 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to True
+2025-12-17 16:01:33,840 - app.models.cctv_manager - WARNING - ✅ UNBLOCKED stream Demo Stream (User explicitly enabled)
+2025-12-17 16:01:33,841 - app.models.cctv_manager - INFO - Opening default camera for stream URL: demo
+2025-12-17 16:01:33,841 - app.models.cctv_manager - INFO - Started monitoring stream: Demo Stream
+2025-12-17 16:01:33,842 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:33] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:01:33,847 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:33] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:33,850 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:33] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:35,672 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:35] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:01:35,705 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:35] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:35,706 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:35] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:01:35,707 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:35] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:35,709 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:35] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:01:35,848 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:35] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:36,122 - app.models.cctv_manager - INFO - Successfully connected to Demo Stream
+2025-12-17 16:01:36,668 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.57)
+2025-12-17 16:01:36,668 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.57)
+2025-12-17 16:01:37,396 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.59)
+2025-12-17 16:01:37,396 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.59)
+2025-12-17 16:01:37,850 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:37] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:37,862 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.57)
+2025-12-17 16:01:37,863 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.57)
+2025-12-17 16:01:38,380 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.59)
+2025-12-17 16:01:38,380 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.59)
+2025-12-17 16:01:38,955 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.58)
+2025-12-17 16:01:38,955 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.58)
+2025-12-17 16:01:39,462 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.58)
+2025-12-17 16:01:39,463 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.58)
+2025-12-17 16:01:39,851 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:39] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:40,071 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.56)
+2025-12-17 16:01:40,071 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.56)
+2025-12-17 16:01:40,616 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.62)
+2025-12-17 16:01:40,616 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.62)
+2025-12-17 16:01:41,189 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.61)
+2025-12-17 16:01:41,189 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.61)
+2025-12-17 16:01:41,629 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.61)
+2025-12-17 16:01:41,629 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.61)
+2025-12-17 16:01:41,850 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:41] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:42,100 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.60)
+2025-12-17 16:01:42,100 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.60)
+2025-12-17 16:01:42,561 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.61)
+2025-12-17 16:01:42,561 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.61)
+2025-12-17 16:01:43,128 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 16:01:43,129 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 16:01:43,675 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.62)
+2025-12-17 16:01:43,675 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.62)
+2025-12-17 16:01:43,850 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:43] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:44,396 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.62)
+2025-12-17 16:01:44,397 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.62)
+2025-12-17 16:01:44,882 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.62)
+2025-12-17 16:01:44,882 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.62)
+2025-12-17 16:01:45,391 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.60)
+2025-12-17 16:01:45,392 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.60)
+2025-12-17 16:01:45,705 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:45] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:45,706 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:45] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:45,849 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:45] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:45,879 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.63)
+2025-12-17 16:01:45,879 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.63)
+2025-12-17 16:01:46,629 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.59)
+2025-12-17 16:01:46,631 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.59)
+2025-12-17 16:01:47,170 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.56)
+2025-12-17 16:01:47,171 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.56)
+2025-12-17 16:01:47,649 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.58)
+2025-12-17 16:01:47,649 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.58)
+2025-12-17 16:01:47,927 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:47] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:48,221 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.58)
+2025-12-17 16:01:48,221 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.58)
+2025-12-17 16:01:48,893 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.58)
+2025-12-17 16:01:48,894 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.58)
+2025-12-17 16:01:49,472 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.59)
+2025-12-17 16:01:49,472 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.59)
+2025-12-17 16:01:49,851 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:49] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:50,168 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.59)
+2025-12-17 16:01:50,168 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.59)
+2025-12-17 16:01:50,631 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.61)
+2025-12-17 16:01:50,631 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.61)
+2025-12-17 16:01:50,708 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:50] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:01:50,712 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:50] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:01:51,134 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.63)
+2025-12-17 16:01:51,135 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.63)
+2025-12-17 16:01:51,622 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.62)
+2025-12-17 16:01:51,622 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.62)
+2025-12-17 16:01:51,849 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:51] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:52,225 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.63)
+2025-12-17 16:01:52,226 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.63)
+2025-12-17 16:01:52,792 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.60)
+2025-12-17 16:01:52,792 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.60)
+2025-12-17 16:01:53,253 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.60)
+2025-12-17 16:01:53,253 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.60)
+2025-12-17 16:01:53,819 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.62)
+2025-12-17 16:01:53,819 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.62)
+2025-12-17 16:01:53,849 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:53] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:54,279 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.59)
+2025-12-17 16:01:54,279 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.59)
+2025-12-17 16:01:54,848 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 16:01:54,848 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 16:01:55,413 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.61)
+2025-12-17 16:01:55,414 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.61)
+2025-12-17 16:01:55,705 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:55] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:55,707 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:55] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:55,849 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:55] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:56,019 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 16:01:56,020 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 16:01:56,656 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 16:01:56,656 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 16:01:57,221 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 16:01:57,222 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 16:01:57,679 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 16:01:57,679 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 16:01:57,849 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:57] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:01:58,246 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.66)
+2025-12-17 16:01:58,247 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.66)
+2025-12-17 16:01:58,914 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 16:01:58,914 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 16:01:59,480 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.65)
+2025-12-17 16:01:59,481 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.65)
+2025-12-17 16:01:59,848 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:01:59] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:02:00,260 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 16:02:00,261 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 16:02:00,752 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 16:02:00,752 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 16:02:01,448 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.62)
+2025-12-17 16:02:01,449 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.62)
+2025-12-17 16:02:01,864 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:02:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:02:02,067 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 16:02:02,067 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 16:02:02,095 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> False
+2025-12-17 16:02:02,101 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to False
+2025-12-17 16:02:02,101 - app.models.cctv_manager - WARNING - 🛑 STOPPING STREAM REQUEST: Demo Stream
+2025-12-17 16:02:02,101 - app.models.cctv_manager - WARNING - 🚫 BLOCKED stream Demo Stream (Kill Switch Active)
+2025-12-17 16:02:02,101 - app.models.cctv_manager - WARNING - Set active=False for Demo Stream
+2025-12-17 16:02:02,101 - app.models.cctv_manager - WARNING - FORCE RELEASING reader for Demo Stream
+2025-12-17 16:02:02,190 - app.models.cctv_manager - WARNING - 🔄 EXITING _monitor_stream loop for Demo Stream
+2025-12-17 16:02:02,288 - app.models.cctv_manager - INFO - Released stream resources for Demo Stream
+2025-12-17 16:02:02,347 - app.models.cctv_manager - WARNING - Waiting for thread Demo Stream to join...
+2025-12-17 16:02:02,349 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:02:02,349 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:02:02,349 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:02:02,349 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:02:02,350 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:02:02] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:02:02,355 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:02:02] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:02:05,676 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:02:05] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:02:05,706 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:02:05] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:02:05,709 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:02:05] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:02:05,712 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:02:05] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:02:05,715 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:02:05] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:02:15,713 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:02:15] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:02:15,718 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:02:15] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:02:20,714 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:02:20] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:02:20,722 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:02:20] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:02:25,711 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:02:25] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:02:25,715 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:02:25] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:02:54,738 - app - INFO - Initializing Face Matcher...
+2025-12-17 16:02:55,205 - app.models.face_matcher - INFO - InsightFace model loaded successfully (Standardized on Buffalo_L)
+2025-12-17 16:02:55,205 - app - INFO - Initializing CCTV Manager...
+2025-12-17 16:02:55,212 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:02:55,212 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:02:55,212 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:02:55,212 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:02:55,213 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:02:55,213 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:02:55,213 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:02:55,213 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:02:55,214 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:02:55,215 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:02:55,215 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:02:55,215 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:02:55,217 - app.routes.person_routes - INFO - Person routes initialized with config and dependencies
+2025-12-17 16:02:55,221 - app - INFO - Missing Person Detection System initialized successfully
+2025-12-17 16:02:56,783 - __main__ - INFO - Webcam is available, adding webcam stream
+2025-12-17 16:02:56,783 - __main__ - ERROR - Error testing webcam: 'CCTVManager' object has no attribute 'add_webcam_stream'
+2025-12-17 16:02:56,784 - __main__ - INFO - Using demo stream instead of webcam
+2025-12-17 16:02:56,785 - app.models.cctv_manager - ERROR - Error adding stream: (sqlite3.IntegrityError) UNIQUE constraint failed: streams.name
+[SQL: INSERT INTO streams (name, source_url, location, lat, lng, active, added_date) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Demo Stream', 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', 'Test Location', None, None, 1, '2025-12-17 10:32:56.785153')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-17 16:02:56,995 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://192.168.28.102:8001
+2025-12-17 16:02:56,995 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-17 16:02:57,018 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-12-17 16:02:59,048 - app - INFO - Initializing Face Matcher...
+2025-12-17 16:02:59,516 - app.models.face_matcher - INFO - InsightFace model loaded successfully (Standardized on Buffalo_L)
+2025-12-17 16:02:59,516 - app - INFO - Initializing CCTV Manager...
+2025-12-17 16:02:59,522 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:02:59,522 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:02:59,522 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:02:59,522 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:02:59,523 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:02:59,523 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:02:59,523 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:02:59,523 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:02:59,525 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:02:59,525 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:02:59,525 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:02:59,525 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:02:59,527 - app.routes.person_routes - INFO - Person routes initialized with config and dependencies
+2025-12-17 16:02:59,531 - app - INFO - Missing Person Detection System initialized successfully
+2025-12-17 16:03:00,016 - __main__ - INFO - Webcam is available, adding webcam stream
+2025-12-17 16:03:00,016 - __main__ - ERROR - Error testing webcam: 'CCTVManager' object has no attribute 'add_webcam_stream'
+2025-12-17 16:03:00,016 - __main__ - INFO - Using demo stream instead of webcam
+2025-12-17 16:03:00,018 - app.models.cctv_manager - ERROR - Error adding stream: (sqlite3.IntegrityError) UNIQUE constraint failed: streams.name
+[SQL: INSERT INTO streams (name, source_url, location, lat, lng, active, added_date) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Demo Stream', 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', 'Test Location', None, None, 1, '2025-12-17 10:33:00.017741')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-17 16:03:00,029 - werkzeug - WARNING -  * Debugger is active!
+2025-12-17 16:03:00,056 - werkzeug - INFO -  * Debugger PIN: 132-631-766
+2025-12-17 16:03:05,697 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:05] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:03:05,707 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:05] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:03:05,713 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:05] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:03:05,715 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:05] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:03:05,718 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:05] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:03:15,712 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:15] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:03:15,717 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:15] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:03:20,714 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:20] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:03:20,720 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:20] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:03:25,709 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:25] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:03:25,715 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:25] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:03:35,677 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:35] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:03:35,705 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:35] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:03:35,708 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:35] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:03:35,712 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:35] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:03:35,714 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:35] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:03:45,710 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:45] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:03:45,713 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:45] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:03:50,557 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:50] "GET /cctv/management HTTP/1.1" 200 -
+2025-12-17 16:03:50,633 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 16:03:50,656 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:50] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:03:50,690 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:50] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:03:50,701 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:50] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:03:50,702 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:50] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:03:50,703 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:50] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 16:03:50,704 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:50] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 16:03:50,705 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:50] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:03:50,724 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:50] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/5f477f47-4fbf-44da-a710-5ac3023fe3c0_ankit.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 16:03:50,726 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:50] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/da52d94a-9f6b-4395-b973-ec6873585599_your_profile_pic.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 16:03:50,728 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:50] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 16:03:52,629 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> True
+2025-12-17 16:03:52,643 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to True
+2025-12-17 16:03:52,644 - app.models.cctv_manager - INFO - Opening default camera for stream URL: demo
+2025-12-17 16:03:52,644 - app.models.cctv_manager - INFO - Started monitoring stream: Demo Stream
+2025-12-17 16:03:52,644 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:52] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:03:52,648 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:52] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:03:52,650 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:52] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:03:53,867 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> False
+2025-12-17 16:03:53,870 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to False
+2025-12-17 16:03:53,870 - app.models.cctv_manager - WARNING - 🛑 STOPPING STREAM REQUEST: Demo Stream
+2025-12-17 16:03:53,870 - app.models.cctv_manager - WARNING - 🚫 BLOCKED stream Demo Stream (Kill Switch Active)
+2025-12-17 16:03:53,870 - app.models.cctv_manager - WARNING - Set active=False for Demo Stream
+2025-12-17 16:03:53,870 - app.models.cctv_manager - WARNING - Waiting for thread Demo Stream to join...
+2025-12-17 16:03:54,652 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:54] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:03:54,918 - app.models.cctv_manager - INFO - Successfully connected to Demo Stream
+2025-12-17 16:03:54,931 - app.models.cctv_manager - WARNING - 🔄 EXITING _monitor_stream loop for Demo Stream
+2025-12-17 16:03:55,098 - app.models.cctv_manager - INFO - Released stream resources for Demo Stream
+2025-12-17 16:03:55,099 - app.models.cctv_manager - WARNING - ✅ Thread Demo Stream joined successfully
+2025-12-17 16:03:55,099 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:03:55,099 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:03:55,099 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:03:55,099 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:03:55,099 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:55] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:03:55,103 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:55] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:03:59,670 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> True
+2025-12-17 16:03:59,677 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to True
+2025-12-17 16:03:59,677 - app.models.cctv_manager - WARNING - ✅ UNBLOCKED stream Demo Stream (User explicitly enabled)
+2025-12-17 16:03:59,677 - app.models.cctv_manager - INFO - Opening default camera for stream URL: demo
+2025-12-17 16:03:59,678 - app.models.cctv_manager - INFO - Started monitoring stream: Demo Stream
+2025-12-17 16:03:59,678 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:59] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:03:59,686 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:59] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:03:59,695 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:03:59] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:00,694 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:00] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:00,696 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:00] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:01,687 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:01,959 - app.models.cctv_manager - INFO - Successfully connected to Demo Stream
+2025-12-17 16:04:02,644 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.61)
+2025-12-17 16:04:02,644 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.61)
+2025-12-17 16:04:02,771 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:02] "GET /api/cctv/stream/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:04:03,231 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.60)
+2025-12-17 16:04:03,232 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.60)
+2025-12-17 16:04:03,678 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.61)
+2025-12-17 16:04:03,678 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.61)
+2025-12-17 16:04:03,687 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:03] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:03,984 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> False
+2025-12-17 16:04:03,987 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to False
+2025-12-17 16:04:03,987 - app.models.cctv_manager - WARNING - 🛑 STOPPING STREAM REQUEST: Demo Stream
+2025-12-17 16:04:03,987 - app.models.cctv_manager - WARNING - 🚫 BLOCKED stream Demo Stream (Kill Switch Active)
+2025-12-17 16:04:03,987 - app.models.cctv_manager - WARNING - Set active=False for Demo Stream
+2025-12-17 16:04:03,987 - app.models.cctv_manager - WARNING - FORCE RELEASING reader for Demo Stream
+2025-12-17 16:04:04,053 - app.models.cctv_manager - WARNING - 🔄 EXITING _monitor_stream loop for Demo Stream
+2025-12-17 16:04:04,192 - app.models.cctv_manager - INFO - Released stream resources for Demo Stream
+2025-12-17 16:04:04,192 - app.models.cctv_manager - WARNING - Waiting for thread Demo Stream to join...
+2025-12-17 16:04:04,193 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:04:04,193 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:04:04,193 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:04:04,193 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:04:04,193 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:04] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:04:04,196 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:04] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:05,699 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:05] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:04:05,712 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:05] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:04:10,693 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:10] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:10,695 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:10] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:11,544 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:11] "GET /cctv/management HTTP/1.1" 200 -
+2025-12-17 16:04:11,564 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 16:04:11,569 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:11] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:04:11,603 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:11,607 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:11] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:04:11,609 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:11] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 16:04:11,610 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:11,616 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:11] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 16:04:11,619 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:11] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:04:11,624 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:11] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 16:04:11,627 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:11] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/5f477f47-4fbf-44da-a710-5ac3023fe3c0_ankit.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 16:04:11,628 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:11] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/da52d94a-9f6b-4395-b973-ec6873585599_your_profile_pic.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 16:04:21,636 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:21] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:21,644 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:21] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:26,615 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:26] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:04:26,620 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:26] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:04:31,611 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:31] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:31,616 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:31] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:41,577 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:41] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:04:41,606 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:41] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:41,610 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:41] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:41,612 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:41] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:04:41,616 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:41] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:04:51,609 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:51] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:51,611 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:51] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:04:56,611 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:56] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:04:56,616 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:04:56] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:05:01,612 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:05:01,616 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:05:11,584 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:11] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:05:11,609 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:05:11,612 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:11] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:05:11,613 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:05:11,619 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:11] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:05:21,610 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:21] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:05:21,613 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:21] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:05:26,611 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:26] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:05:26,616 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:26] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:05:31,608 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:31] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:05:31,611 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:31] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:05:41,573 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:41] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:05:41,604 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:41] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:05:41,608 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:41] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:05:41,609 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:41] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:05:41,612 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:41] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:05:51,608 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:51] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:05:51,611 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:51] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:05:56,612 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:56] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:05:56,615 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:05:56] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:06:01,609 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:06:01,616 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:06:11,576 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:11] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:06:11,610 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:06:11,612 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:06:11,615 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:11] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:06:11,619 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:11] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:06:21,609 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:21] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:06:21,613 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:21] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:06:26,613 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:26] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:06:26,618 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:26] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:06:31,608 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:31] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:06:31,613 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:31] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:06:41,574 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:41] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:06:41,608 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:41] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:06:41,611 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:41] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:06:41,611 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:41] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:06:41,615 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:41] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:06:44,962 - werkzeug - INFO -  * Detected change in '/Users/prashantshukla/Desktop/face_detection/app/models/cctv_manager.py', reloading
+2025-12-17 16:06:44,986 - werkzeug - INFO -  * Detected change in '/Users/prashantshukla/Desktop/face_detection/app/models/cctv_manager.py', reloading
+2025-12-17 16:06:46,652 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-12-17 16:06:49,335 - app - INFO - Initializing Face Matcher...
+2025-12-17 16:06:49,830 - app.models.face_matcher - INFO - InsightFace model loaded successfully (Standardized on Buffalo_L)
+2025-12-17 16:06:49,831 - app - INFO - Initializing CCTV Manager...
+2025-12-17 16:06:49,838 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:06:49,838 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:06:49,838 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:06:49,838 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:06:49,839 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:06:49,839 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:06:49,839 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:06:49,839 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:06:49,840 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:06:49,840 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:06:49,840 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:06:49,841 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:06:49,844 - app.routes.person_routes - INFO - Person routes initialized with config and dependencies
+2025-12-17 16:06:49,848 - app - INFO - Missing Person Detection System initialized successfully
+2025-12-17 16:06:51,463 - __main__ - INFO - Webcam is available, adding webcam stream
+2025-12-17 16:06:51,463 - __main__ - ERROR - Error testing webcam: 'CCTVManager' object has no attribute 'add_webcam_stream'
+2025-12-17 16:06:51,463 - __main__ - INFO - Using demo stream instead of webcam
+2025-12-17 16:06:51,465 - app.models.cctv_manager - ERROR - Error adding stream: (sqlite3.IntegrityError) UNIQUE constraint failed: streams.name
+[SQL: INSERT INTO streams (name, source_url, location, lat, lng, active, added_date) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Demo Stream', 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', 'Test Location', None, None, 1, '2025-12-17 10:36:51.464464')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-17 16:06:51,472 - werkzeug - WARNING -  * Debugger is active!
+2025-12-17 16:06:51,498 - werkzeug - INFO -  * Debugger PIN: 132-631-766
+2025-12-17 16:06:51,609 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:51] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:06:51,611 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:51] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:06:52,672 - werkzeug - INFO -  * Detected change in '/Users/prashantshukla/Desktop/face_detection/app/models/cctv_manager.py', reloading
+2025-12-17 16:06:54,060 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-12-17 16:06:56,789 - app - INFO - Initializing Face Matcher...
+2025-12-17 16:06:57,181 - app.models.face_matcher - INFO - InsightFace model loaded successfully (Standardized on Buffalo_L)
+2025-12-17 16:06:57,181 - app - INFO - Initializing CCTV Manager...
+2025-12-17 16:06:57,188 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:06:57,188 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:06:57,188 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:06:57,188 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:06:57,188 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:06:57,188 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:06:57,188 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:06:57,188 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:06:57,190 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:06:57,190 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:06:57,190 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:06:57,191 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:06:57,193 - app.routes.person_routes - INFO - Person routes initialized with config and dependencies
+2025-12-17 16:06:57,197 - app - INFO - Missing Person Detection System initialized successfully
+2025-12-17 16:06:58,617 - __main__ - INFO - Webcam is available, adding webcam stream
+2025-12-17 16:06:58,618 - __main__ - ERROR - Error testing webcam: 'CCTVManager' object has no attribute 'add_webcam_stream'
+2025-12-17 16:06:58,618 - __main__ - INFO - Using demo stream instead of webcam
+2025-12-17 16:06:58,621 - app.models.cctv_manager - ERROR - Error adding stream: (sqlite3.IntegrityError) UNIQUE constraint failed: streams.name
+[SQL: INSERT INTO streams (name, source_url, location, lat, lng, active, added_date) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Demo Stream', 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', 'Test Location', None, None, 1, '2025-12-17 10:36:58.620490')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-17 16:06:58,636 - werkzeug - WARNING -  * Debugger is active!
+2025-12-17 16:06:58,665 - werkzeug - INFO -  * Debugger PIN: 132-631-766
+2025-12-17 16:06:58,700 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:58] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:06:58,708 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:06:58] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:07:00,720 - app - INFO - Initializing Face Matcher...
+2025-12-17 16:07:01,112 - app.models.face_matcher - INFO - InsightFace model loaded successfully (Standardized on Buffalo_L)
+2025-12-17 16:07:01,112 - app - INFO - Initializing CCTV Manager...
+2025-12-17 16:07:01,118 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:07:01,118 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:07:01,118 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:07:01,118 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:07:01,118 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:07:01,118 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:07:01,118 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:07:01,118 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:07:01,120 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:07:01,120 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:07:01,120 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:07:01,121 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:07:01,123 - app.routes.person_routes - INFO - Person routes initialized with config and dependencies
+2025-12-17 16:07:01,127 - app - INFO - Missing Person Detection System initialized successfully
+2025-12-17 16:07:01,588 - __main__ - INFO - Webcam is available, adding webcam stream
+2025-12-17 16:07:01,589 - __main__ - ERROR - Error testing webcam: 'CCTVManager' object has no attribute 'add_webcam_stream'
+2025-12-17 16:07:01,589 - __main__ - INFO - Using demo stream instead of webcam
+2025-12-17 16:07:01,591 - app.models.cctv_manager - ERROR - Error adding stream: (sqlite3.IntegrityError) UNIQUE constraint failed: streams.name
+[SQL: INSERT INTO streams (name, source_url, location, lat, lng, active, added_date) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Demo Stream', 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', 'Test Location', None, None, 1, '2025-12-17 10:37:01.590738')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-17 16:07:01,642 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:07:01,646 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:07:11,577 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:11] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:07:11,615 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:07:11,616 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:11] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:07:11,618 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:07:11,620 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:11] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:07:21,611 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:21] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:07:21,616 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:21] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:07:26,616 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:26] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:07:26,626 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:26] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:07:31,607 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:31] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:07:31,609 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:31] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:07:41,575 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:41] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:07:41,602 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:41] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:07:41,606 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:41] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:07:41,609 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:41] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:07:41,613 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:41] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:07:51,607 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:51] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:07:51,611 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:51] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:07:56,612 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:56] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:07:56,615 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:07:56] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:08:01,609 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:01,614 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:02,285 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:02] "GET /cctv/management HTTP/1.1" 200 -
+2025-12-17 16:08:02,373 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 16:08:02,423 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:02] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:02,425 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:02] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:08:02,426 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:02] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:02,427 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:02] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 16:08:02,429 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:02] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:08:02,429 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:02] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 16:08:02,433 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:02] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:08:02,442 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:02] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/5f477f47-4fbf-44da-a710-5ac3023fe3c0_ankit.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 16:08:02,443 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:02] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 16:08:02,445 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:02] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/da52d94a-9f6b-4395-b973-ec6873585599_your_profile_pic.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 16:08:04,858 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> True
+2025-12-17 16:08:04,868 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to True
+2025-12-17 16:08:04,871 - app.models.cctv_manager - INFO - Opening default camera for stream URL: demo
+2025-12-17 16:08:04,871 - app.models.cctv_manager - INFO - Started monitoring stream: Demo Stream
+2025-12-17 16:08:04,873 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:04] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:08:04,877 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:04] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:04,882 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:04] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:06,880 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:06] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:07,298 - app.models.cctv_manager - INFO - Successfully connected to Demo Stream
+2025-12-17 16:08:07,996 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.61)
+2025-12-17 16:08:07,996 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.61)
+2025-12-17 16:08:08,003 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:08] "GET /api/cctv/stream/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:08:08,677 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.58)
+2025-12-17 16:08:08,677 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.58)
+2025-12-17 16:08:08,883 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:08] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:09,136 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.61)
+2025-12-17 16:08:09,136 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.61)
+2025-12-17 16:08:09,611 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.61)
+2025-12-17 16:08:09,611 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.61)
+2025-12-17 16:08:10,032 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> False
+2025-12-17 16:08:10,038 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to False
+2025-12-17 16:08:10,039 - app.models.cctv_manager - WARNING - 🛑 STOPPING STREAM REQUEST: Demo Stream
+2025-12-17 16:08:10,039 - app.models.cctv_manager - WARNING - 🚫 BLOCKED stream Demo Stream (Kill Switch Active)
+2025-12-17 16:08:10,039 - app.models.cctv_manager - WARNING - Set active=False for Demo Stream
+2025-12-17 16:08:10,039 - app.models.cctv_manager - WARNING - FORCE RELEASING reader for Demo Stream
+2025-12-17 16:08:10,082 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.58)
+2025-12-17 16:08:10,083 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.58)
+2025-12-17 16:08:10,095 - app.models.cctv_manager - WARNING - 🔄 EXITING _monitor_stream loop for Demo Stream
+2025-12-17 16:08:10,284 - app.models.cctv_manager - INFO - Released stream resources for Demo Stream
+2025-12-17 16:08:10,284 - app.models.cctv_manager - WARNING - Waiting for thread Demo Stream to join...
+2025-12-17 16:08:10,285 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:08:10,285 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:08:10,285 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:08:10,285 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:08:10,286 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:10] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:08:10,290 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:10] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:12,428 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:12] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:12,431 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:12] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:17,426 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:17] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:08:17,430 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:17] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:08:18,416 - werkzeug - INFO -  * Detected change in '/Users/prashantshukla/Desktop/face_detection/app/models/cctv_manager.py', reloading
+2025-12-17 16:08:20,086 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-12-17 16:08:22,711 - app - INFO - Initializing Face Matcher...
+2025-12-17 16:08:23,256 - app.models.face_matcher - INFO - InsightFace model loaded successfully (Standardized on Buffalo_L)
+2025-12-17 16:08:23,256 - app - INFO - Initializing CCTV Manager...
+2025-12-17 16:08:23,263 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:08:23,263 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:08:23,263 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:08:23,263 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:08:23,263 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:08:23,264 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:08:23,264 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:08:23,264 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:08:23,265 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:08:23,265 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:08:23,265 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:08:23,266 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:08:23,269 - app.routes.person_routes - INFO - Person routes initialized with config and dependencies
+2025-12-17 16:08:23,273 - app - INFO - Missing Person Detection System initialized successfully
+2025-12-17 16:08:27,295 - __main__ - INFO - Webcam is available, adding webcam stream
+2025-12-17 16:08:27,297 - __main__ - ERROR - Error testing webcam: 'CCTVManager' object has no attribute 'add_webcam_stream'
+2025-12-17 16:08:27,298 - __main__ - INFO - Using demo stream instead of webcam
+2025-12-17 16:08:27,306 - app.models.cctv_manager - ERROR - Error adding stream: (sqlite3.IntegrityError) UNIQUE constraint failed: streams.name
+[SQL: INSERT INTO streams (name, source_url, location, lat, lng, active, added_date) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Demo Stream', 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', 'Test Location', None, None, 1, '2025-12-17 10:38:27.303354')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-17 16:08:27,374 - werkzeug - WARNING -  * Debugger is active!
+2025-12-17 16:08:27,644 - werkzeug - INFO -  * Debugger PIN: 132-631-766
+2025-12-17 16:08:27,740 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:27] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:27,743 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:27] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:32,441 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:32] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:32,451 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:32] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:32,452 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:32] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:08:32,457 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:32] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:08:32,460 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:32] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:08:33,986 - werkzeug - INFO -  * Detected change in '/Users/prashantshukla/Desktop/face_detection/app/models/cctv_manager.py', reloading
+2025-12-17 16:08:35,438 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-12-17 16:08:37,924 - app - INFO - Initializing Face Matcher...
+2025-12-17 16:08:38,390 - app.models.face_matcher - INFO - InsightFace model loaded successfully (Standardized on Buffalo_L)
+2025-12-17 16:08:38,390 - app - INFO - Initializing CCTV Manager...
+2025-12-17 16:08:38,396 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:08:38,396 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:08:38,396 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:08:38,396 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:08:38,397 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:08:38,397 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:08:38,397 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:08:38,397 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:08:38,399 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:08:38,399 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:08:38,399 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:08:38,400 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:08:38,402 - app.routes.person_routes - INFO - Person routes initialized with config and dependencies
+2025-12-17 16:08:38,406 - app - INFO - Missing Person Detection System initialized successfully
+2025-12-17 16:08:40,066 - __main__ - INFO - Webcam is available, adding webcam stream
+2025-12-17 16:08:40,066 - __main__ - ERROR - Error testing webcam: 'CCTVManager' object has no attribute 'add_webcam_stream'
+2025-12-17 16:08:40,066 - __main__ - INFO - Using demo stream instead of webcam
+2025-12-17 16:08:40,069 - app.models.cctv_manager - ERROR - Error adding stream: (sqlite3.IntegrityError) UNIQUE constraint failed: streams.name
+[SQL: INSERT INTO streams (name, source_url, location, lat, lng, active, added_date) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Demo Stream', 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', 'Test Location', None, None, 1, '2025-12-17 10:38:40.068371')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-17 16:08:40,076 - werkzeug - WARNING -  * Debugger is active!
+2025-12-17 16:08:40,109 - werkzeug - INFO -  * Debugger PIN: 132-631-766
+2025-12-17 16:08:40,190 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:40] "GET / HTTP/1.1" 200 -
+2025-12-17 16:08:40,315 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:40] "[36mGET /static/images/landing_hero.png HTTP/1.1[0m" 304 -
+2025-12-17 16:08:40,316 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 16:08:40,420 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:40] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 16:08:44,662 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:44] "GET /dashboard HTTP/1.1" 200 -
+2025-12-17 16:08:44,677 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 16:08:44,713 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:44] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:08:44,714 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:44] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 16:08:44,715 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:44] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:08:44,722 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:44] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:08:44,726 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:44] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:47,937 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:47] "GET /cctv/dashboard HTTP/1.1" 200 -
+2025-12-17 16:08:47,951 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 16:08:47,969 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:47] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:08:47,974 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:47] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:08:47,980 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:47] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:08:47,981 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:47] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 16:08:47,983 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:47] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:51,511 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:51] "GET /cctv/management HTTP/1.1" 200 -
+2025-12-17 16:08:51,526 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 16:08:51,543 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:51] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:08:51,551 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:51] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:51,558 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:51] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:51,560 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:51] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:08:51,561 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:51] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 16:08:51,564 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:51] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 16:08:51,565 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:51] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:08:51,567 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:51] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 16:08:51,576 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:51] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/da52d94a-9f6b-4395-b973-ec6873585599_your_profile_pic.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 16:08:51,578 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:51] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/5f477f47-4fbf-44da-a710-5ac3023fe3c0_ankit.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 16:08:54,019 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> True
+2025-12-17 16:08:54,029 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to True
+2025-12-17 16:08:54,030 - app.models.cctv_manager - INFO - Opening default camera for stream URL: demo
+2025-12-17 16:08:54,030 - app.models.cctv_manager - INFO - Started monitoring stream: Demo Stream
+2025-12-17 16:08:54,030 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:54] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:08:54,036 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:54] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:54,043 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:54] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:56,039 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:56] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:08:56,325 - app.models.cctv_manager - INFO - Successfully connected to Demo Stream
+2025-12-17 16:08:56,965 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.56)
+2025-12-17 16:08:56,965 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.56)
+2025-12-17 16:08:56,993 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:56] "GET /api/cctv/stream/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:08:57,376 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> False
+2025-12-17 16:08:57,383 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to False
+2025-12-17 16:08:57,383 - app.models.cctv_manager - WARNING - 🛑 STOPPING STREAM REQUEST: Demo Stream
+2025-12-17 16:08:57,383 - app.models.cctv_manager - WARNING - 🚫 BLOCKED stream Demo Stream (Kill Switch Active)
+2025-12-17 16:08:57,383 - app.models.cctv_manager - WARNING - Set active=False for Demo Stream
+2025-12-17 16:08:57,383 - app.models.cctv_manager - WARNING - FORCE RELEASING reader for Demo Stream
+2025-12-17 16:08:57,640 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.57)
+2025-12-17 16:08:57,640 - app.models.cctv_manager - WARNING - Waiting for thread Demo Stream to join...
+2025-12-17 16:08:57,641 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.57)
+2025-12-17 16:08:57,651 - app.models.cctv_manager - WARNING - 🔄 EXITING _monitor_stream loop for Demo Stream
+2025-12-17 16:08:57,699 - app.models.cctv_manager - INFO - Released stream resources for Demo Stream
+2025-12-17 16:08:57,699 - app.models.cctv_manager - WARNING - ✅ Thread Demo Stream joined successfully
+2025-12-17 16:08:57,700 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:08:57,700 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:08:57,700 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:08:57,700 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:08:57,700 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:57] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:08:57,703 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:08:57] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:09:01,580 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:09:01,584 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:09:06,557 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:06] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:09:06,562 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:06] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:09:11,552 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:09:11,556 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:09:21,557 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:21] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:09:21,558 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:21] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:09:21,563 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:21] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:09:21,563 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:21] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:09:21,567 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:21] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:09:31,552 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:31] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:09:31,556 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:31] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:09:36,621 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:36] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:09:36,626 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:36] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:09:41,615 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:41] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:09:41,622 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:41] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:09:51,612 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:51] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:09:51,615 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:51] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:09:51,618 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:51] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:09:51,620 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:51] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:09:51,624 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:09:51] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:10:01,610 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:10:01,614 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:10:06,617 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:06] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:10:06,626 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:06] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:10:11,610 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:10:11,613 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:10:21,609 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:21] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:10:21,610 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:21] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:10:21,613 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:21] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:10:21,614 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:21] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:10:21,616 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:21] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:10:31,607 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:31] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:10:31,612 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:31] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:10:36,613 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:36] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:10:36,618 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:36] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:10:41,607 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:41] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:10:41,611 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:41] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:10:51,607 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:51] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:10:51,608 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:51] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:10:51,611 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:51] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:10:51,612 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:51] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:10:51,615 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:10:51] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:11:01,651 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:11:01,653 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:11:06,632 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:06] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:11:06,637 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:06] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:11:11,613 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:11:11,615 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:11:21,607 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:21] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:11:21,609 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:21] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:11:21,611 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:21] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:11:21,614 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:21] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:11:21,617 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:21] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:11:31,610 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:31] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:11:31,613 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:31] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:11:36,609 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:36] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:11:36,613 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:36] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:11:41,610 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:41] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:11:41,615 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:41] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:11:51,603 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:51] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:11:51,609 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:51] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:11:51,613 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:51] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:11:51,613 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:51] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:11:51,615 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:11:51] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:12:01,612 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:12:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:12:01,621 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:12:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:12:06,629 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:12:06] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:12:06,634 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:12:06] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:12:11,611 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:12:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:12:11,617 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:12:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:12:21,605 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:12:21] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:12:21,612 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:12:21] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:12:21,613 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:12:21] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:12:21,618 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:12:21] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:12:21,624 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:12:21] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:12:23,090 - werkzeug - INFO -  * Detected change in '/Users/prashantshukla/Desktop/face_detection/app/models/cctv_manager.py', reloading
+2025-12-17 16:12:23,105 - werkzeug - INFO -  * Detected change in '/Users/prashantshukla/Desktop/face_detection/app/models/cctv_manager.py', reloading
+2025-12-17 16:12:23,898 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-12-17 16:12:26,850 - app - INFO - Initializing Face Matcher...
+2025-12-17 16:12:27,407 - app.models.face_matcher - INFO - InsightFace model loaded successfully (Standardized on Buffalo_L)
+2025-12-17 16:12:27,407 - app - INFO - Initializing CCTV Manager...
+2025-12-17 16:12:27,413 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:12:27,413 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:12:27,413 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:12:27,413 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:12:27,413 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:12:27,413 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:12:27,413 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:12:27,413 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:12:27,415 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:12:27,415 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:12:27,415 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:12:27,416 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:12:27,418 - app.routes.person_routes - INFO - Person routes initialized with config and dependencies
+2025-12-17 16:12:27,422 - app - INFO - Missing Person Detection System initialized successfully
+2025-12-17 16:12:29,084 - __main__ - INFO - Webcam is available, adding webcam stream
+2025-12-17 16:12:29,084 - __main__ - ERROR - Error testing webcam: 'CCTVManager' object has no attribute 'add_webcam_stream'
+2025-12-17 16:12:29,084 - __main__ - INFO - Using demo stream instead of webcam
+2025-12-17 16:12:29,086 - app.models.cctv_manager - ERROR - Error adding stream: (sqlite3.IntegrityError) UNIQUE constraint failed: streams.name
+[SQL: INSERT INTO streams (name, source_url, location, lat, lng, active, added_date) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Demo Stream', 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', 'Test Location', None, None, 1, '2025-12-17 10:42:29.086356')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-17 16:12:29,094 - werkzeug - WARNING -  * Debugger is active!
+2025-12-17 16:12:29,118 - werkzeug - INFO -  * Debugger PIN: 132-631-766
+2025-12-17 16:12:31,626 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:12:31] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:12:31,630 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:12:31] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:12:32,646 - werkzeug - INFO -  * Detected change in '/Users/prashantshukla/Desktop/face_detection/app/models/cctv_manager.py', reloading
+2025-12-17 16:12:33,929 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-12-17 16:12:36,566 - app - INFO - Initializing Face Matcher...
+2025-12-17 16:12:37,104 - app.models.face_matcher - INFO - InsightFace model loaded successfully (Standardized on Buffalo_L)
+2025-12-17 16:12:37,104 - app - INFO - Initializing CCTV Manager...
+2025-12-17 16:12:37,112 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:12:37,112 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:12:37,112 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:12:37,112 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:12:37,112 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:12:37,112 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:12:37,112 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:12:37,112 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:12:37,114 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:12:37,114 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:12:37,114 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:12:37,115 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:12:37,117 - app.routes.person_routes - INFO - Person routes initialized with config and dependencies
+2025-12-17 16:12:37,122 - app - INFO - Missing Person Detection System initialized successfully
+2025-12-17 16:12:55,388 - app - INFO - Initializing Face Matcher...
+2025-12-17 16:12:55,844 - app.models.face_matcher - INFO - InsightFace model loaded successfully (Standardized on Buffalo_L)
+2025-12-17 16:12:55,845 - app - INFO - Initializing CCTV Manager...
+2025-12-17 16:12:55,850 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:12:55,850 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:12:55,850 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:12:55,850 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:12:55,850 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:12:55,850 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:12:55,850 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:12:55,850 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:12:55,853 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:12:55,853 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:12:55,853 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:12:55,854 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:12:55,855 - app.routes.person_routes - INFO - Person routes initialized with config and dependencies
+2025-12-17 16:12:55,860 - app - INFO - Missing Person Detection System initialized successfully
+2025-12-17 16:12:57,509 - __main__ - INFO - Webcam is available, adding webcam stream
+2025-12-17 16:12:57,510 - __main__ - ERROR - Error testing webcam: 'CCTVManager' object has no attribute 'add_webcam_stream'
+2025-12-17 16:12:57,510 - __main__ - INFO - Using demo stream instead of webcam
+2025-12-17 16:12:57,511 - app.models.cctv_manager - ERROR - Error adding stream: (sqlite3.IntegrityError) UNIQUE constraint failed: streams.name
+[SQL: INSERT INTO streams (name, source_url, location, lat, lng, active, added_date) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Demo Stream', 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', 'Test Location', None, None, 1, '2025-12-17 10:42:57.511515')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-17 16:12:57,530 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://192.168.28.102:8001
+2025-12-17 16:12:57,530 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-17 16:12:57,565 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-12-17 16:12:59,820 - app - INFO - Initializing Face Matcher...
+2025-12-17 16:13:00,238 - app.models.face_matcher - INFO - InsightFace model loaded successfully (Standardized on Buffalo_L)
+2025-12-17 16:13:00,238 - app - INFO - Initializing CCTV Manager...
+2025-12-17 16:13:00,245 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:13:00,245 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:13:00,245 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:13:00,245 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:13:00,245 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: mobile1
+2025-12-17 16:13:00,245 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Live Webcam
+2025-12-17 16:13:00,245 - app.models.cctv_manager - INFO - Loaded Force-Disabled Webcam stream from DB: Demo Stream
+2025-12-17 16:13:00,245 - app.models.cctv_manager - INFO - Loaded Inactive stream from DB: Hostel
+2025-12-17 16:13:00,247 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:13:00,247 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:13:00,247 - app.models.cctv_manager - INFO - CCTV Manager initialized successfully
+2025-12-17 16:13:00,248 - app.models.cctv_manager - INFO - Loaded 2 lost persons from database
+2025-12-17 16:13:00,250 - app.routes.person_routes - INFO - Person routes initialized with config and dependencies
+2025-12-17 16:13:00,255 - app - INFO - Missing Person Detection System initialized successfully
+2025-12-17 16:13:00,884 - __main__ - INFO - Webcam is available, adding webcam stream
+2025-12-17 16:13:00,884 - __main__ - ERROR - Error testing webcam: 'CCTVManager' object has no attribute 'add_webcam_stream'
+2025-12-17 16:13:00,885 - __main__ - INFO - Using demo stream instead of webcam
+2025-12-17 16:13:00,887 - app.models.cctv_manager - ERROR - Error adding stream: (sqlite3.IntegrityError) UNIQUE constraint failed: streams.name
+[SQL: INSERT INTO streams (name, source_url, location, lat, lng, active, added_date) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Demo Stream', 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', 'Test Location', None, None, 1, '2025-12-17 10:43:00.886548')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-12-17 16:13:00,895 - werkzeug - WARNING -  * Debugger is active!
+2025-12-17 16:13:00,988 - werkzeug - INFO -  * Debugger PIN: 132-631-766
+2025-12-17 16:13:01,628 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:13:01,637 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:01] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:13:01,963 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:01] "GET /cctv/management HTTP/1.1" 200 -
+2025-12-17 16:13:02,040 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-17 16:13:02,066 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:02] "GET /api/stats HTTP/1.1" 200 -
+2025-12-17 16:13:02,088 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:02] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:13:02,093 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:02] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:13:02,095 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:02] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 16:13:02,097 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:02] "GET /api/persons HTTP/1.1" 200 -
+2025-12-17 16:13:02,098 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:02] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:13:02,101 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:02] "GET /api/detections/recent HTTP/1.1" 200 -
+2025-12-17 16:13:02,118 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:02] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-12-17 16:13:02,120 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:02] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/da52d94a-9f6b-4395-b973-ec6873585599_your_profile_pic.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 16:13:02,122 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:02] "[35m[1mGET /Users/prashantshukla/Desktop/face_detection/data/uploads/persons/5f477f47-4fbf-44da-a710-5ac3023fe3c0_ankit.jpeg HTTP/1.1[0m" 500 -
+2025-12-17 16:13:03,814 - app.routes.cctv_routes - WARNING - 🔌 TOGGLE REQUEST: Demo Stream -> True
+2025-12-17 16:13:03,828 - app.models.cctv_manager - INFO - Updated DB status for Demo Stream to True
+2025-12-17 16:13:03,829 - app.models.cctv_manager - INFO - Opening default camera for stream URL: demo
+2025-12-17 16:13:03,829 - app.models.cctv_manager - INFO - Started monitoring stream: Demo Stream
+2025-12-17 16:13:03,829 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:03] "POST /cctv/toggle/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:13:03,833 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:03] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:13:03,838 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:03] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:13:03,844 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:03] "GET /api/cctv/stream/Demo%20Stream HTTP/1.1" 200 -
+2025-12-17 16:13:05,834 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:05] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:13:06,106 - app.models.cctv_manager - INFO - Successfully connected to Demo Stream
+2025-12-17 16:13:07,002 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.56)
+2025-12-17 16:13:07,003 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.56)
+2025-12-17 16:13:07,581 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.57)
+2025-12-17 16:13:07,581 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.57)
+2025-12-17 16:13:07,838 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:07] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:13:08,826 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.56)
+2025-12-17 16:13:08,826 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.56)
+2025-12-17 16:13:09,479 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.62)
+2025-12-17 16:13:09,479 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.62)
+2025-12-17 16:13:09,834 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:09] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:13:09,957 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 16:13:09,957 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 16:13:10,634 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.59)
+2025-12-17 16:13:10,634 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.59)
+2025-12-17 16:13:11,215 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.59)
+2025-12-17 16:13:11,215 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.59)
+2025-12-17 16:13:11,794 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.62)
+2025-12-17 16:13:11,795 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.62)
+2025-12-17 16:13:11,835 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:11] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:13:12,091 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:12] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:13:12,095 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:12] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:13:12,468 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.63)
+2025-12-17 16:13:12,468 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.63)
+2025-12-17 16:13:13,053 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 16:13:13,054 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 16:13:13,597 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.63)
+2025-12-17 16:13:13,597 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.63)
+2025-12-17 16:13:13,837 - werkzeug - INFO - 127.0.0.1 - - [17/Dec/2025 16:13:13] "GET /cctv/streams HTTP/1.1" 200 -
+2025-12-17 16:13:14,154 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.63)
+2025-12-17 16:13:14,154 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.63)
+2025-12-17 16:13:14,598 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.60)
+2025-12-17 16:13:14,598 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.60)
+2025-12-17 16:13:15,218 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.62)
+2025-12-17 16:13:15,218 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.62)
+2025-12-17 16:13:15,704 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.62)
+2025-12-17 16:13:15,705 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.62)
+2025-12-17 16:13:16,160 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.60)
+2025-12-17 16:13:16,160 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.60)
+2025-12-17 16:13:16,836 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.62)
+2025-12-17 16:13:16,836 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.62)
+2025-12-17 16:13:17,468 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 16:13:17,469 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 16:13:18,040 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.59)
+2025-12-17 16:13:18,041 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.59)
+2025-12-17 16:13:18,519 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.61)
+2025-12-17 16:13:18,519 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.61)
+2025-12-17 16:13:18,981 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.61)
+2025-12-17 16:13:18,981 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.61)
+2025-12-17 16:13:19,490 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.61)
+2025-12-17 16:13:19,490 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.61)
+2025-12-17 16:13:19,958 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.64)
+2025-12-17 16:13:19,958 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.64)
+2025-12-17 16:13:20,616 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.61)
+2025-12-17 16:13:20,617 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.61)
+2025-12-17 16:13:21,188 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.60)
+2025-12-17 16:13:21,189 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.60)
+2025-12-17 16:13:21,658 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.62)
+2025-12-17 16:13:21,658 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.62)
+2025-12-17 16:13:22,143 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.59)
+2025-12-17 16:13:22,144 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.59)
+2025-12-17 16:13:22,585 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.61)
+2025-12-17 16:13:22,585 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.61)
+2025-12-17 16:13:23,154 - app.models.face_matcher - INFO - 🎯 FOUND: Prashant Shukla (Sim: 0.63)
+2025-12-17 16:13:23,155 - app.models.cctv_manager - INFO - 🚨 FOUND: Prashant Shukla (Prashant Shukla) in Demo Stream (0.63)

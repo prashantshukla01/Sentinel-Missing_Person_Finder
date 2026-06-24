@@ -1,4 +1,3 @@
-
 import cv2
 import threading
 import time
@@ -594,9 +593,14 @@ class CCTVManager:
         stream_status = 'unknown'
         
         with self.lock:
-            frame = self.latest_frames.get(stream_name)
+            cached_frame = self.latest_frames.get(stream_name)
             if stream_name in self.active_streams:
                 stream_status = self.active_streams[stream_name].get('status', 'unknown')
+        
+        if cached_frame is not None:
+             frame = cached_frame.copy() # CRITICAL FIX: Don't modify the cached frame directly
+        else:
+             frame = None
         
         if frame is None:
             # Return placeholder based on status
@@ -648,8 +652,6 @@ class CCTVManager:
                 # Resolve display name for overlay
                 # Resolve display name for overlay
                 display_name = self.person_name_map.get(raw_name, raw_name)
-                
-                # 3. Fallback: Strip UUID if it looks like one (contains underscore)
                 
                 # 3. Fallback: Strip UUID if it looks like one (contains underscore)
                 if display_name == raw_name and '_' in display_name:
